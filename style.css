@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+#element-new{
+    background-color: black;
+    color: aliceblue;
+    
+}
+.wrapper{
+    text-align: center;
+}
+img{
+    width: 200px;
+    margin-top: 20px;
+    margin: 5px;
+    border: 4px double black;
+    height: 200px;
+
+}
